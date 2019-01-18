@@ -2,7 +2,7 @@
 def prime? (num)
   num_range = 2..(num/2)
 
-  if num < 1
+  if num < 2
     return false
   end
 
